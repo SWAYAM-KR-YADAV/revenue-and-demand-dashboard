@@ -2,7 +2,7 @@
 
 > **An executive-level analytics dashboard delivering data-driven insights into retail revenue trends, customer performance, and global demand to support strategic business decision-making.**
 
----
+
 
 ## 1. Project Overview
 
@@ -17,7 +17,7 @@ By transforming raw transactional data into **concise, actionable insights**, th
 
 All insights are delivered through a **single, executive-friendly interface**.
 
----
+
 
 ## 2. Business Context
 
@@ -30,7 +30,7 @@ Retail organizations operating across global markets face increasing pressure to
 
 This dashboard was developed to address these needs through **structured business analysis** and **effective data visualization**.
 
----
+
 
 ## 3. Technical Framework
 
@@ -43,7 +43,7 @@ The dashboard was designed to answer the following key business questions:
 * Who are the **top revenue-generating customers** contributing most to overall sales?
 * Which **global regions** demonstrate the highest product demand and expansion potential?
 
----
+
 
 ### 3.2 Data Cleaning and Preparation
 
@@ -61,7 +61,7 @@ To ensure analytical accuracy and reliability, the following data quality checks
   * Ensured correct numeric data types
   * Excluded the United Kingdom from international expansion analysis
 
----
+
 
 ### 3.3 Tools and Technologies
 
@@ -69,7 +69,6 @@ To ensure analytical accuracy and reliability, the following data quality checks
 * **DAX (Data Analysis Expressions)** – Custom measures and business logic
 * **Power Query** – Data cleaning, transformation, and ETL processes
 
----
 
 ## 4. Dashboard Visualizations and Insights
 
@@ -82,7 +81,7 @@ The dashboard includes four executive-level KPIs to provide a **high-level busin
 * **Total Customers** – Count of unique, active customer accounts
 * **Countries Served** – Number of international markets served (excluding UK)
 
----
+
 
 ### 4.2 Strategic Insights
 
@@ -95,7 +94,7 @@ The dashboard includes four executive-level KPIs to provide a **high-level busin
 * **Expansion Opportunities**
   Geographic demand analysis reveals untapped regions with strong sales potential, supporting data-backed international expansion decisions.
 
----
+
 
 ## 5. Repository Structure
 
@@ -106,7 +105,7 @@ The dashboard includes four executive-level KPIs to provide a **high-level busin
     └── Online_Retail_Data.csv
 ```
 
----
+
 
 ## 6. Conclusion
 
@@ -118,18 +117,20 @@ The dashboard empowers leadership teams to make informed decisions across:
 * Customer strategy
 * Global market expansion
 
----
+
 
 ## 7. Author
 
 **Swayam Kumar Yadav**
 Business Analysis | Data Analytics | Data Science
 
----
+
 
 ## 8. Acknowledgement
 
 This project was completed as part of the
 **Tata Data Visualisation: Empowering Business with Effective Insights – Job Simulation**,
 conducted by **Tata Insights and Quants (Tata iQ)**.
+
+![1 TATA_page-0001](https://github.com/user-attachments/assets/6f4f64c8-ed6d-4ddb-9fa2-058bbe7c6021)
 
