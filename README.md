@@ -2,6 +2,7 @@
 
 > **An executive-level analytics dashboard delivering data-driven insights into retail revenue trends, customer performance, and global demand to support strategic business decision-making.**
 
+![1 TATA_page-0001](https://github.com/user-attachments/assets/6f4f64c8-ed6d-4ddb-9fa2-058bbe7c6021)
 
 
 ## 1. Project Overview
@@ -132,5 +133,5 @@ This project was completed as part of the
 **Tata Data Visualisation: Empowering Business with Effective Insights – Job Simulation**,
 conducted by **Tata Insights and Quants (Tata iQ)**.
 
-![1 TATA_page-0001](https://github.com/user-attachments/assets/6f4f64c8-ed6d-4ddb-9fa2-058bbe7c6021)
+
 
